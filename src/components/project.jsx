@@ -1,5 +1,4 @@
 import React from "react";
-import { gsap } from "gsap/gsap-core";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
